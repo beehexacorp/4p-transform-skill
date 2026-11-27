@@ -10,7 +10,7 @@ that answers the core question:
 ## Install (Claude Code)
 
 ```
-/plugin marketplace add beehexacorp/4ptransform-skill
+/plugin marketplace add beehexacorp/4p-transform-skill
 /plugin install 4p-transform@4ptransform.org
 ```
 
