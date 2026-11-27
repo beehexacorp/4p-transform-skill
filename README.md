@@ -17,7 +17,7 @@ that answers the core question:
 ## Use
 
 ```
-/4ptransform We want to move our sales team from spreadsheets to a CRM
+/4p-transform We want to move our sales team from spreadsheets to a CRM
 ```
 
 Start from whichever P you know best. Claude asks one or two questions at a time and tells you which parts of the
