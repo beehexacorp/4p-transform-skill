@@ -8,10 +8,10 @@
     {
       "name": "4ptransform",
       "source": "./",
-      "description": "Think a change through with 4P Transform: Problem, Product, People and Protocol."
+      "description": "4P Transform by Phan Vu Giap: think a change through with Problem, Product, People and Protocol."
     }
   ],
   "metadata": {
-    "description": "4P Transform: a simple framework to think a change through (4ptransform.org)."
+    "description": "4P Transform by Phan Vu Giap: a simple framework to think a change through with the four Ps (4ptransform.org)."
   }
 }

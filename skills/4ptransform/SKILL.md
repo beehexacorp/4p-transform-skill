@@ -1,6 +1,6 @@
 ---
 name: 4ptransform
-description: Think a change through with 4P Transform, the framework by Phan Vu Giap (4ptransform.org). Walks the user through the four Ps (Problem/Why, Product/What, People/Who, Protocol/How, with Protocol at the centre), fills the one-page canvas and answers the core question. Use when the user types /4ptransform, mentions 4P Transform, or wants to think through a digital transformation, a new product, a new tool or a change in how people work.
+description: 4P Transform by Phan Vu Giap (4ptransform.org): think a change through with Problem, Product, People and Protocol. Walks the user through the four Ps (Problem/Why, Product/What, People/Who, Protocol/How, with Protocol at the centre), fills the one-page canvas and answers the core question. Use when the user types /4ptransform, mentions 4P Transform, or wants to think through a digital transformation, a new product, a new tool or a change in how people work.
 argument-hint: "[the change you want to think through]"
 ---
 

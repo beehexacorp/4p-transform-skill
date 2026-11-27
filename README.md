@@ -1,8 +1,8 @@
 # 4P Transform for Claude
 
-Think a change through with [4P Transform](https://4ptransform.org), a simple framework by
-[Phan Vu Giap](https://phanvugiap.com/). Claude walks you through the four Ps: Problem (Why), Product (What),
-People (Who) and Protocol (How), with Protocol at the centre. It ends with a filled one-page canvas and one sentence
+[4P Transform](https://4ptransform.org) by [Phan Vu Giap](https://phanvugiap.com/): think a change through with
+Problem (Why), Product (What), People (Who) and Protocol (How). Claude asks about each P in turn, with Protocol at
+the centre. It ends with a filled one-page canvas and one sentence
 that answers the core question:
 
 > Which specific Product empowers People to overcome a critical Problem through a clear Protocol?
