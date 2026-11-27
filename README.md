@@ -30,8 +30,8 @@ advice in law, finance or a specific industry.
 
 ## Keeping it current
 
-`skills/4ptransform/references/framework.md` is generated from the site. After a new framework version, run
-`scripts/sync-framework.sh` and bump `version` in `.claude-plugin/plugin.json`.
+`skills/4ptransform/references/framework.md` is generated from the 4ptransform.org site (`llms.txt`). It is updated
+from there after each framework version; don't edit it by hand.
 
 ## Licence
 
