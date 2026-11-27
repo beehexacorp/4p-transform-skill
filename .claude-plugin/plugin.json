@@ -1,0 +1,17 @@
+{
+  "name": "4ptransform",
+  "version": "1.0.0",
+  "description": "Think a change through with 4P Transform: Problem (Why), Product (What), People (Who) and Protocol (How), with Protocol at the centre.",
+  "author": {
+    "name": "Phan Vu Giap",
+    "url": "https://phanvugiap.com/"
+  },
+  "homepage": "https://4ptransform.org",
+  "keywords": [
+    "digital-transformation",
+    "framework",
+    "4p-transform",
+    "change"
+  ],
+  "license": "CC-BY-NC-SA-4.0"
+}

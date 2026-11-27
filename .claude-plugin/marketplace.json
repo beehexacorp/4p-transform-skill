@@ -1,0 +1,17 @@
+{
+  "name": "4ptransform",
+  "owner": {
+    "name": "Phan Vu Giap",
+    "url": "https://phanvugiap.com/"
+  },
+  "plugins": [
+    {
+      "name": "4ptransform",
+      "source": "./",
+      "description": "Think a change through with 4P Transform: Problem, Product, People and Protocol."
+    }
+  ],
+  "metadata": {
+    "description": "4P Transform: a simple framework to think a change through (4ptransform.org)."
+  }
+}
