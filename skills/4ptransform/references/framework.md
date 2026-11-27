@@ -2,7 +2,7 @@
 
 > 4P Transform is a thinking framework that helps people understand change before they act, through four connected elements: Problem (Why), Product (What), People (Who) and Protocol (How). Vision: Help enterprises and individuals streamline the decision-making process with confidence.
 
-Current version: 4P Transform v1.0, live since 2026-11-20. Author: Phan Vu Giap (https://phanvugiap.com/). The name is "4P Transform"; Product, Problem, People and Protocol are "the four Ps".
+Current version: 4P Transform v1.0, live since 2026-11-20. Author: Phan Vu Giap (https://phanvugiap.com/). The name is "4P Transform"; Product, Problem, People and Protocol are "the four Ps". Licence: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 ## The core question
 
