@@ -11,7 +11,7 @@ that answers the core question:
 
 ```
 /plugin marketplace add beehexacorp/4ptransform-skill
-/plugin install 4ptransform@4ptransform
+/plugin install 4p-transform@4ptransform
 ```
 
 ## Use

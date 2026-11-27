@@ -6,7 +6,7 @@
   },
   "plugins": [
     {
-      "name": "4ptransform",
+      "name": "4p-transform",
       "source": "./",
       "description": "4P Transform by Phan Vu Giap: think a change through with Problem, Product, People and Protocol."
     }
